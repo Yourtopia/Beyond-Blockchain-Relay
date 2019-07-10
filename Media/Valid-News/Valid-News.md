@@ -1,10 +1,10 @@
 # Innovations to reshape the News Economy
 
-Information shape our worldview, each as individuals. Journalists, commentators and everyone else making claims are rarely taking the responsibility needed to communicate what is closest to the truth.
-
 The world has always suffered from false claims. Last decade the suffering has increased, whilst at the same time, the opportunity to debunk false claims is not only technologically closer – it is also widely requested by the public.
 
 The mission of Valid.news is to create a better information-environment on the Web, including improving the ecosystem of news distribution. At this stage, we have proposals on implementable solutions.
+
+Information shape our worldview, each as individuals. Journalists, commentators and everyone else making claims are rarely taking the responsibility needed to communicate what is closest to the truth.
 
 The article that follows goes through these solutions. Much of this paper was written as a Submission to Consensys’ bounty of [Reinventing the Online News Economy](https://explorer.bounties.network/bounty/3164). 
 
