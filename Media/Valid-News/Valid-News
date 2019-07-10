@@ -1,3 +1,5 @@
+# Innovations to reshape the News Economy
+
 Information shape our worldview, each as individuals. Journalists, commentators and everyone else making claims are rarely taking the responsibility needed to communicate what is closest to the truth.
 
 The world has always suffered from false claims. Last decade the suffering has increased, whilst at the same time, the opportunity to debunk false claims is not only technologically closer – it is also widely requested by the public.
@@ -6,7 +8,13 @@ The mission of Valid.news is to create a better information-environment on the W
 
 The article that follows goes through these solutions. Much of this paper was written as a Submission to Consensys’ bounty of [Reinventing the Online News Economy](https://explorer.bounties.network/bounty/3164). 
 
-## **Judging criteria notes**
+# Preferably, read this at Valid.news&
+This paper is best read at Valid.news, which offer funcctionality like tooltip-hovers as well as labeled and expandable headers & text-blocks.
+
+For now, Valid.news is still a Work In Progress, but you can continue reading at Valid.news/news-ecosystem or continue reading this PDF (without all features mentioned below).
+
+
+## Judging criteria notes
 
 We are addressing several problems and as seen with this demo-site that took a week to create, we have the entrepreneurial drive to develop all the big solutions proposed in this document. As for the [judging criterias](https://github.com/ConsenSys/Beyond-Blockchain-Relay/blob/master/judging-criteria.md), here is a few comments:
 
@@ -31,7 +39,7 @@ Within 6-12 months we will have launched much new UX features and we move away m
 Now, to the paper.
 
 
-##  **Answers to Consensys questions**
+##  Answers to Consensys questions
 
 *   How might we create trust in media through _transparency_ in information and media systems? **Examples:**
     *   giving credit to original sources?
@@ -85,25 +93,25 @@ In order to get higher revenue share need to be transparent
         *   Trust-graph \
 How high is the collective trust that the owner/stakeholder isn’t influencing news?
 
-# **The problem**
+# The problem
 
 
-## **Everyone knows the problem**
+## Everyone knows the problem
 
 But fake news isn’t new. It’s just its influence has scaled – much larger than the scaling on prevention/solutions. At this point the Web3 Foundation, Yuval Noah Harari, the average Joe understand the problem. And so now is the time for humans to provide a solution. One solution is agreeing on the logical support and relevance of claims/narratives/information.
 
 
-## **Few accurately map out sub-problems**
+## Few accurately map out sub-problems
 
 Because it’s difficult. The sub-problems are interconnected. Keeping your “brain-cache” fully focused on the ecosystem of human knowledge is an energy-consuming task few humans spend large sums of their biological resources on. Neither do I. But I spend a part of my resources on it. And that’s helped me to at least partly map out the sub-problems.
 
 
-## **My briefing of sub-problems**
+##*My briefing of sub-problems
 
 Incentives, Sensationalism, Regulatory and more
 
 
-### **Incentives. Difficult terrain of reputation. (Content)**
+### Incentives. Difficult terrain of reputation. (Content)
 
 Incentives of publishers to adopt sensationalism.
 
