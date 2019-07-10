@@ -12,7 +12,6 @@ A combination of Knowledge-Graph software, Distributed Consensus and Social Web 
 ## Project Advisor(s)
 
 ## Link to Ancillary Material
-If some of your material cannot be uploaded to GitHub (ie. Google Slides, a pitch on Youtube, a metrics dashboard on BareMetrics), list it here!
 
 - **Whitepaper in modern UX:** [valid.news](http://valid.news)
 - **Whitepaper Markdown:** https://github.com/Yourtopia/Beyond-Blockchain-Relay/blob/master/Media/Valid-News/Valid-News.md
