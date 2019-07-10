@@ -1,7 +1,7 @@
 # Submission for the Reinventing the Online News Economy Bounties
 
 ## Project Name
-Valid.News
+[valid.news](http://valid.news)
 ## Project Summary
 A combination of Knowledge-Graph software, Distributed Consensus and Social Web UX like QuoteMap, Expandable sections, TextLabels that are all endless & embeddable have the opportunity to re-shape the whole web to a social web. We have started building the UX elements and made specifications for future software.
 ## Project Team
@@ -18,4 +18,4 @@ If some of your material cannot be uploaded to GitHub (ie. Google Slides, a pitc
 - **Whitepaper Markdown:** https://github.com/Yourtopia/Beyond-Blockchain-Relay/blob/master/Media/Valid-News/Valid-News.md
 
 ## Project Launch Page
-valid.news](http://valid.news)
+[valid.news](http://valid.news)
