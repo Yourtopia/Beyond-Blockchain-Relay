@@ -29,7 +29,7 @@ Research of Digital Information Environment has been thoroughly done. Ex.
 
 Wikipedia Page Previews has A/B-tested since 2015 and officially launched July 2018.   
 
-ChangeAView.com expanded from Reddit to with quote map functionality in March 2019.
+[ChangeAView.com](ChangeAView.com) expanded from Reddit to with quote map functionality in March 2019.
 
 The team is me, a serial-failing-entrepreneur, not seeing myself professionally as anything else than an Entrepreneur since 6 years old. You can see my CV on [LinkedIn](https://www.linkedin.com/in/allberg/).
 
@@ -357,7 +357,7 @@ Requesting Publishers/Journalist to edit their article is a voting process on th
 
 Starts as soon as somebody enters it into the claims-protocol. Sub claims are logical reasoning, with links to references and arguments are also weighted by the Reputation from debaters. The claim inherits metrics from the sub-claims, and if a time-sensitive action needs to be done (ex. inform a journalist to correct themselves) such is pointed out in the system (ex. urgency to debate the claim). 
 
-UX could be simple argument-maps such as on DebateGraph.org but with modifications: metrics attached from Users to Claims – so slightly more complicated as these also get derived upwards. Sub-claims are transferable across Claims (to create further relations across Claims) to streamline Claim-debates in future.
+UX could be simple argument-maps such as on [DebateGraph.org](DebateGraph.org) but with modifications: metrics attached from Users to Claims – so slightly more complicated as these also get derived upwards. Sub-claims are transferable across Claims (to create further relations across Claims) to streamline Claim-debates in future.
 
 
 ##### **User reputation**
